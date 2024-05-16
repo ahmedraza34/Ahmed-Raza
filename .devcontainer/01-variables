@@ -1,0 +1,12 @@
+const accountId = 28999
+let accountName = "Ahmed Raza"
+var accountEmail = "random@gmail.com"
+accountCity = "Lahore"
+let accountState;
+
+// accountId = 11223
+accountName = "Ali"
+accountEmail = "ali@gmail.com"
+accountCity = "sahilhrwal"
+
+console.table([accountId, accountName, accountEmail, accountCity, accountState])
